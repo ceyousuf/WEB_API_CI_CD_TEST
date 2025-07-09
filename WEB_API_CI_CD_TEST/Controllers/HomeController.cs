@@ -14,7 +14,8 @@ namespace WEB_API_CI_CD_TEST.Controllers
 
            
 
-            return "Muhammad Abu Yousof";
+            return (12/0).ToString();
+            
 
         }
     }
